@@ -5,3 +5,5 @@ var phone = {
     price: 20000
 }
 console.log(phone.brand);
+console.log(phone.values);
+console.log(phone);
