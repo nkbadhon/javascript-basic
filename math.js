@@ -12,3 +12,8 @@ if (gap < 5) {
 else {
     console.log('stay apart');
 }
+
+
+const num3 = 2.64236;
+const fullNum3 = Math.round(num3);
+console.log(fullNum3);
