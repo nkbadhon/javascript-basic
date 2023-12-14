@@ -4,4 +4,4 @@ manipulation
 2.CRUD operation
 3. Projects:
    a. banking system
-   b. Cart 
+   b. Cart management
